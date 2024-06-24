@@ -1,1 +1,1 @@
-we can write the text into an text box then we can select which kind of voice we want and click the button  to listen then text 
+You may enter the text into the provided text box. Afterward, please select the desired type of voice from the available options. Once you have made your selection, click the button to listen to the text read aloud.
